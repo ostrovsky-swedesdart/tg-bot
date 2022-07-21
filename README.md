@@ -16,5 +16,7 @@ import testing from 'discriptions'
 ```
 
 Errors in script?
-```vk
-VK owner: 
+```js
+VK owner: https://vk.com/id569336824.
+VK owner официального скрипта: https://vk.com/id612444319.
+```
